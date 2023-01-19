@@ -1,6 +1,8 @@
 # .github
 # Local .terraform directories
 **/.terraform/*
+notes/.obsidian
+
 
 # .tfstate files
 *.tfstate
